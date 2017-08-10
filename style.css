@@ -1,17 +1,19 @@
-<body> {background: orange }
+@import url
+(https://fonts.googleapis.com/css?/family=Dosis;
+
+
 h1 {
-	font-family: Arial, sans-serif
+    text-align:center;
+    font-size:3em;
 }
-p
-ul
-img 
-#slogan
 
 
-
-{background-color:pink} </body>
-h3 {font-size 24 px;}
-font-style
-body {text-align: center;}
-a {text-decoration:none}
- h1 {text-transform:uppercase}
+p {
+	font-family: 'Dosis', sans-serif;
+	font-size: 40px;
+	line-height: 1.5em;
+	margin: 2em;
+}
+strong {
+	font-variant: small-caps;
+}
