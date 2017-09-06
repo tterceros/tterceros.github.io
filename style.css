@@ -1,19 +1,78 @@
-@import url
-(https://fonts.googleapis.com/css?/family=Dosis;
-
-
+@import url('https://fonts.googleapis.com/css?family=Acme+Into+light')
+<body> {background: orange }
 h1 {
-    text-align:center;
-    font-size:3em;
+	
 }
+p
+ul
+img 
+#slogan
 
 
-p {
-	font-family: 'Dosis', sans-serif;
-	font-size: 40px;
-	line-height: 1.5em;
-	margin: 2em;
+
+{background-color:pink} </body>
+h3 {font-size 24 px;}
+font-style
+body {text-align: center;}
+a {text-decoration:none}
+ h1 {text-transform:uppercase}
+
+ #wrapper {
+ 	background:#ffffff url(https://i.imgur.com/NnZRHEr.jpg)
+ }
+
+ #content {
+ 	float: left;
+ 	width: 560px;
+ 	padding: 20px 0;
+ 	margin: 0 0 0 30px;
+ }
+ nav a : hover{
+ 	background-color: #338833;
+ }
+.column{
+	float:left;
+	width:260px;
+	height:300px;
+	padding: 20px;
+	margin:0;
 }
-strong {
-	font-variant: small-caps;
+
+#column1 {
+	background-color: #AC54FF;
 }
+
+#column2 {
+	background-color: #5485FF; 
+}
+#column3 {
+	background-color: #47FFF2;
+}  
+
+  aside  {
+  	float:right;
+  	font-size: 14px;
+  	width:240px;
+    padding: 20px
+    margin:0 20px 0 0;    
+}
+
+ aside h3 {
+ 	margin:0;
+ }
+
+ footer {
+ 	background-color: #cccccc;
+ 	text-align:right;
+ 	padding: 20px;
+ }
+
+ .clearfixafter {
+ 	visibility: hidden;
+ 	display: block;
+ 	font-size: 0;
+ 	content: " ";
+    clear:both;
+    height: 0;
+    }
+ }
