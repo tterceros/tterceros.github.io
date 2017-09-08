@@ -1,0 +1,19 @@
+@import url
+(https://fonts.googleapis.com/css?/family=Dosis;
+
+
+h1 {
+    text-align:center;
+    font-size:3em;
+}
+
+
+p {
+	font-family: 'Dosis', sans-serif;
+	font-size: 40px;
+	line-height: 1.5em;
+	margin: 2em;
+}
+strong {
+	font-variant: small-caps;
+}
