@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Acme+Into+light')
-<body> {background: orange }
+<body> {background: pink }
 h1 {
 	
 }
@@ -8,17 +8,31 @@ ul
 img 
 #slogan
 
+body {
+	font-size:10px;
+}
+
+.em-unit {
+	background-color: #FF8388;
+	width:4em;
+	height: 2em;
+}
 
 
 {background-color:pink} </body>
 h3 {font-size 24 px;}
 font-style
 body {text-align: center;}
-a {text-decoration:none}
- h1 {text-transform:uppercase}
+a {text-decoration:none;}
+ h1 {text-transform:uppercase;}
 
- #wrapper {
- 	background:#ffffff url(https://i.imgur.com/NnZRHEr.jpg)
+ #wrapper.clearfix:after {
+ 	visibility: hidden;
+ 	display:block;
+ 	font-size: 0;
+ 	content: both;
+ 	height:0;
+ 	background:#95B9FF url(https://i.imgur.com/NnZRHEr.jpg)
  }
 
  #content {
@@ -28,7 +42,7 @@ a {text-decoration:none}
  	margin: 0 0 0 30px;
  }
  nav a : hover{
- 	background-color: #338833;
+ 	background-color: #E8B483;
  }
 .column{
 	float:left;
@@ -41,20 +55,20 @@ a {text-decoration:none}
 #two_column {
 	background-color: #FFB7CF;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 20%;
 }
 #left {
 	background-color: #violet;
 	border: 1px black solid;
-    padding: 20px;
+    padding: 20%;
     float:left;
-    width: 30%
+    width: 30%;
 }
 
 #right {
 	background-color: pink;
 	border:1px black solid;
-	padding: 20px;
+	padding: 20%;
 	float;right;
 	width:62%;
 }
@@ -73,8 +87,8 @@ a {text-decoration:none}
   aside  {
   	float:right;
   	font-size: 14px;
-  	width:240px;
-    padding: 20px
+  	width:140%;
+    padding: 20%;
     margin:0 20px 0 0;    
 }
 
@@ -83,9 +97,9 @@ a {text-decoration:none}
  }
 
  footer {
- 	background-color: #cccccc;
+ 	background-color: #FFF090;
  	text-align:right;
- 	padding: 20px;
+ 	padding: 20%;
  }
 
  .clearfixafter {
