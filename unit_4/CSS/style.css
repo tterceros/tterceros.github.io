@@ -1,39 +1,18 @@
-@import url('https://fonts.googleapis.com/css?family=Acme+Into+light')
-<body> {background: pink }
-h1 {
-	
-}
-p
-ul
-img 
-#slogan
-
+@import url('https://fonts.googleapis.com/css?family=Acme+Into+light');
+* {margin:0; padding:0; box-sizing:border-box; }
 body {
-	font-size:10px;
+	background: pink;
+	font-size: 16px;
+	text-align: center;
 }
-
 .em-unit {
 	background-color: #FF8388;
 	width:4em;
-	height: 2em;
 }
-
-
-{background-color:pink} </body>
-h3 {font-size 24 px;}
-font-style
-body {text-align: center;}
+h3 {font-size 24px;}
 a {text-decoration:none;}
  h1 {text-transform:uppercase;}
 
- #wrapper.clearfix:after {
- 	visibility: hidden;
- 	display:block;
- 	font-size: 0;
- 	content: both;
- 	height:0;
- 	background:#95B9FF url(https://i.imgur.com/NnZRHEr.jpg)
- }
 
  #content {
  	float: left;
@@ -41,13 +20,12 @@ a {text-decoration:none;}
  	padding: 20px 0;
  	margin: 0 0 0 30px;
  }
- nav a : hover{
+ nav a:hover{
  	background-color: #E8B483;
  }
 .column{
 	float:left;
-	width:260px;
-	height:300px;
+	width:33.33%;
 	padding: 20px;
 	margin:0;
 }
@@ -69,7 +47,7 @@ a {text-decoration:none;}
 	background-color: pink;
 	border:1px black solid;
 	padding: 20%;
-	float;right;
+	float:right;
 	width:62%;
 }
 
@@ -85,11 +63,9 @@ a {text-decoration:none;}
 }  
 
   aside  {
-  	float:right;
   	font-size: 14px;
-  	width:140%;
-    padding: 20%;
-    margin:0 20px 0 0;    
+  	padding: 20%;
+  	margin:0 20px 0 0;
 }
 
  aside h3 {
@@ -110,4 +86,3 @@ a {text-decoration:none;}
     clear:both;
     height: 0;
     }
- }
