@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css?family=Acme+Into+light')
+<body> {background: pink }
+h1 {
+	
+}
+p
+ul
+img 
+#slogan
+
+body {
+	font-size:10px;
+}
+
+.em-unit {
+	background-color: #FF8388;
+	width:4em;
+	height: 2em;
+}
+
+
+{background-color:pink} </body>
+h3 {font-size 24 px;}
+font-style
+body {text-align: center;}
+a {text-decoration:none;}
+ h1 {text-transform:uppercase;}
+
+ #wrapper.clearfix:after {
+ 	visibility: hidden;
+ 	display:block;
+ 	font-size: 0;
+ 	content: both;
+ 	height:0;
+ 	background:#95B9FF url(https://i.imgur.com/NnZRHEr.jpg)
+ }
+
+ #content {
+ 	float: left;
+ 	width: 560px;
+ 	padding: 20px 0;
+ 	margin: 0 0 0 30px;
+ }
+ nav a : hover{
+ 	background-color: #E8B483;
+ }
+.column{
+	float:left;
+	width:260px;
+	height:300px;
+	padding: 20px;
+	margin:0;
+}
+
+#two_column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20%;
+}
+#left {
+	background-color: #violet;
+	border: 1px black solid;
+    padding: 20%;
+    float:left;
+    width: 30%;
+}
+
+#right {
+	background-color: pink;
+	border:1px black solid;
+	padding: 20%;
+	float;right;
+	width:62%;
+}
+
+#column1 {
+	background-color: #AC54FF;
+}
+
+#column2 {
+	background-color: #5485FF; 
+}
+#column3 {
+	background-color: #47FFF2;
+}  
+
+  aside  {
+  	float:right;
+  	font-size: 14px;
+  	width:140%;
+    padding: 20%;
+    margin:0 20px 0 0;    
+}
+
+ aside h3 {
+ 	margin:0;
+ }
+
+ footer {
+ 	background-color: #FFF090;
+ 	text-align:right;
+ 	padding: 20%;
+ }
+
+ .clearfixafter {
+ 	visibility: hidden;
+ 	display: block;
+ 	font-size: 0;
+ 	content: " ";
+    clear:both;
+    height: 0;
+    }
+ }
